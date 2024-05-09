@@ -19,3 +19,6 @@ env/
 # Environment variables and configuration files
 .env
 *.config
+
+.idea
+./.idea
